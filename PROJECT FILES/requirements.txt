@@ -1,0 +1,6 @@
+tensorflow
+numpy
+streamlit
+streamlit-option-menu
+openai
+keras
